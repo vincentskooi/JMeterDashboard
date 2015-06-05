@@ -1,0 +1,42 @@
+C:\Users\ooiv01\documents\visual studio 2010\Projects\WPFJmeterDashboard\WPFJmeterDashboard\bin\Debug\WPFJmeterDashboard.exe
+C:\Users\ooiv01\documents\visual studio 2010\Projects\WPFJmeterDashboard\WPFJmeterDashboard\bin\Debug\WPFJmeterDashboard.pdb
+C:\Users\ooiv01\documents\visual studio 2010\Projects\WPFJmeterDashboard\WPFJmeterDashboard\bin\Debug\DynamicDataDisplay.dll
+C:\Users\ooiv01\documents\visual studio 2010\Projects\WPFJmeterDashboard\WPFJmeterDashboard\obj\x86\Debug\MainWindow.baml
+C:\Users\ooiv01\documents\visual studio 2010\Projects\WPFJmeterDashboard\WPFJmeterDashboard\obj\x86\Debug\MainWindow.g.cs
+C:\Users\ooiv01\documents\visual studio 2010\Projects\WPFJmeterDashboard\WPFJmeterDashboard\obj\x86\Debug\App.g.cs
+C:\Users\ooiv01\documents\visual studio 2010\Projects\WPFJmeterDashboard\WPFJmeterDashboard\obj\x86\Debug\WPFJmeterDashboard_MarkupCompile.cache
+C:\Users\ooiv01\documents\visual studio 2010\Projects\WPFJmeterDashboard\WPFJmeterDashboard\obj\x86\Debug\WPFJmeterDashboard.g.resources
+C:\Users\ooiv01\documents\visual studio 2010\Projects\WPFJmeterDashboard\WPFJmeterDashboard\obj\x86\Debug\JmeterDashboard.Properties.Resources.resources
+C:\Users\ooiv01\documents\visual studio 2010\Projects\WPFJmeterDashboard\WPFJmeterDashboard\obj\x86\Debug\WPFJmeterDashboard.csproj.GenerateResource.Cache
+C:\Users\ooiv01\documents\visual studio 2010\Projects\WPFJmeterDashboard\WPFJmeterDashboard\obj\x86\Debug\WPFJmeterDashboard.exe
+C:\Users\ooiv01\documents\visual studio 2010\Projects\WPFJmeterDashboard\WPFJmeterDashboard\obj\x86\Debug\WPFJmeterDashboard.pdb
+C:\Users\ooiv01\documents\visual studio 2010\Projects\WPFJmeterDashboard\WPFJmeterDashboard\obj\x86\Debug\WPFJmeterDashboard.csprojResolveAssemblyReference.cache
+C:\Users\ooiv01\Documents\Visual Studio 2010\Projects\WPFJmeterDashboard\WPFJmeterDashboard\obj\x86\Debug\WPFJmeterDashboard_MarkupCompile.lref
+C:\Users\ooiv01\Documents\Visual Studio 2010\Projects\WPFJmeterDashboard\WPFJmeterDashboard\bin\Debug\DynamicDataDisplay.Maps.dll
+C:\Users\ooiv01\Documents\Visual Studio 2010\Projects\WPFJmeterDashboard\WPFJmeterDashboard\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\ooiv01\Documents\Visual Studio 2010\Projects\WPFJmeterDashboard\WPFJmeterDashboard\bin\Debug\WPFToolkit.dll
+C:\Users\ooiv01\Documents\Visual Studio 2010\Projects\WPFJmeterDashboard\WPFJmeterDashboard\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+C:\Users\ooiv01\Documents\Visual Studio 2010\Projects\WPFJmeterDashboard\WPFJmeterDashboard\bin\Debug\WPFToolkit.pdb
+C:\Users\ooiv01\documents\visual studio 2010\Projects\WPFJmeterDashboard\WPFJmeterDashboard\bin\Debug\WPFJmeterDashboard.exe.config
+C:\Users\ooiv01\Documents\Visual Studio 2010\Projects\WPFJmeterDashboard\WPFJmeterDashboard\obj\x86\Debug\JmeterDashboard.AboutBox.resources
+C:\Users\ooiv01\Documents\GitHub\WPFJmeterDashboard\WPFJmeterDashboard\bin\Debug\WPFJmeterDashboard.exe.config
+C:\Users\ooiv01\Documents\GitHub\WPFJmeterDashboard\WPFJmeterDashboard\obj\x86\Debug\WPFJmeterDashboard.exe
+C:\Users\ooiv01\Documents\GitHub\WPFJmeterDashboard\WPFJmeterDashboard\obj\x86\Debug\WPFJmeterDashboard.pdb
+C:\Users\ooiv01\Documents\GitHub\WPFJmeterDashboard\WPFJmeterDashboard\bin\Debug\WPFJmeterDashboard.exe
+C:\Users\ooiv01\Documents\GitHub\WPFJmeterDashboard\WPFJmeterDashboard\bin\Debug\WPFJmeterDashboard.pdb
+C:\Users\ooiv01\Documents\GitHub\WPFJmeterDashboard\WPFJmeterDashboard\bin\Debug\DynamicDataDisplay.dll
+C:\Users\ooiv01\Documents\GitHub\WPFJmeterDashboard\WPFJmeterDashboard\bin\Debug\DynamicDataDisplay.Maps.dll
+C:\Users\ooiv01\Documents\GitHub\WPFJmeterDashboard\WPFJmeterDashboard\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\ooiv01\Documents\GitHub\WPFJmeterDashboard\WPFJmeterDashboard\bin\Debug\WPFToolkit.dll
+C:\Users\ooiv01\Documents\GitHub\WPFJmeterDashboard\WPFJmeterDashboard\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+C:\Users\ooiv01\Documents\GitHub\WPFJmeterDashboard\WPFJmeterDashboard\bin\Debug\WPFToolkit.pdb
+C:\Users\ooiv01\Documents\GitHub\WPFJmeterDashboard\WPFJmeterDashboard\obj\x86\Debug\WPFJmeterDashboard.csprojResolveAssemblyReference.cache
+C:\Users\ooiv01\Documents\GitHub\WPFJmeterDashboard\WPFJmeterDashboard\obj\x86\Debug\MainWindow.g.cs
+C:\Users\ooiv01\Documents\GitHub\WPFJmeterDashboard\WPFJmeterDashboard\obj\x86\Debug\App.g.cs
+C:\Users\ooiv01\Documents\GitHub\WPFJmeterDashboard\WPFJmeterDashboard\obj\x86\Debug\WPFJmeterDashboard_MarkupCompile.cache
+C:\Users\ooiv01\Documents\GitHub\WPFJmeterDashboard\WPFJmeterDashboard\obj\x86\Debug\WPFJmeterDashboard_MarkupCompile.lref
+C:\Users\ooiv01\Documents\GitHub\WPFJmeterDashboard\WPFJmeterDashboard\obj\x86\Debug\MainWindow.baml
+C:\Users\ooiv01\Documents\GitHub\WPFJmeterDashboard\WPFJmeterDashboard\obj\x86\Debug\WPFJmeterDashboard.g.resources
+C:\Users\ooiv01\Documents\GitHub\WPFJmeterDashboard\WPFJmeterDashboard\obj\x86\Debug\JmeterDashboard.AboutBox.resources
+C:\Users\ooiv01\Documents\GitHub\WPFJmeterDashboard\WPFJmeterDashboard\obj\x86\Debug\JmeterDashboard.Properties.Resources.resources
+C:\Users\ooiv01\Documents\GitHub\WPFJmeterDashboard\WPFJmeterDashboard\obj\x86\Debug\WPFJmeterDashboard.csproj.GenerateResource.Cache
