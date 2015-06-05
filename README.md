@@ -31,7 +31,13 @@ timeStamp;elapsed;label;responseCode;threadName;bytes;grpThreads;allThreads;Late
 1433196608400;80652;Login to Recent Transmission;200;S03_TransmissionDetails_PatientList 3-1;55379;1;6;0;1;0;USSV-BC2ZNW1-D
 1433196694249;3479;Logout;200;S01_RecentTransmission 1-1;28467;1;6;0;1;0;USSV-BC2ZNW1-D
 
+######################################################################################
+#Example Screenshots:
+#
+######################################################################################
 
-- Vincent.
+![Alt text](https://github.com/vincentskooi/JMeterDashboard/blob/master/Screenshots/Chart-RealTime.jpg "Real-Time Charts")
 
+![Alt text](https://github.com/vincentskooi/JMeterDashboard/blob/master/Screenshots/SummaryPage.jpg "Overall Summary")
 
+![Alt text](https://github.com/vincentskooi/JMeterDashboard/blob/master/Screenshots/Chart-Overall.jpg "Overall Charts")
